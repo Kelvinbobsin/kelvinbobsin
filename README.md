@@ -1,4 +1,4 @@
-### Olá! Eu sou Kelvin Bobsin
+### Olá! Eu sou o Kelvin Bobsin
 
 - 🔭 Trabalho com Testes de software
 - 🌱 Estudando Teste Automatizados
