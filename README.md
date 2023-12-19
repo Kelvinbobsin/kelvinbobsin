@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kelvin Bobsin
 
-- 🌱 Estudando Qualida de Software
+- 🌱 Estudando Qualidade de Software
 
 
 
