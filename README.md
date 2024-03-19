@@ -1,6 +1,8 @@
-### Olá! Eu sou o Kelvin Bobsin
+### Olá, seja Bem-Vindo ao Meu Perfil do GitHub!
 
-- 🌱 Estudando Qualidade de Software
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F77900&random=false&width=435&lines=Olá!+Eu+me+chamo+Kelvin+Bobsin+quickly)](https://git.io/typing-svg)
+
+- 🌱 Estudando Qualidade e Teste de Software
 
 
 
